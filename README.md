@@ -69,6 +69,7 @@ These are templates for journal submissions. These each modify a LaTeX template 
 | [styler.quote](https://github.com/christopherkenny/styler.quote) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) A third party extension to styler that modifies the tidyverse style guide to use correct quotes in R (the single `'` rather than captilized version `"`) |
 | [luigg](https://github.com/christopherkenny/luigg) | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) An R package with ggplot2 extensions for a Mario-style pipe bar graph and color schemes based on Mario games. |
 | [acronames](https://github.com/christopherkenny/acronames) | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) An R package for creating initialisms based on lists of words you want to use. | 
+| [parrot](https://github.com/christopherkenny/parrot) | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) An R package for including party parrots in RMarkdown. | 
 | [ppmf_data](https://github.com/christopherkenny/ppmf_data) | Compressed versions of Census Privacy Protected Microdata Files | 
 | [cvap_data](https://github.com/christopherkenny/cvap_data) | Preprocessed versions of Census CVAP data, usable with `cvap` |
 | [universe](https://github.com/christopherkenny/universe) | Packages list for generating my [r-universe](https://christopherkenny.r-universe.dev/builds). I don't keep this super updated, but it has the big packages that are a pain to build from source from GitHub. | 
