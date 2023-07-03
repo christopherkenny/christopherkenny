@@ -55,6 +55,7 @@ These are templates for journal submissions. These each modify a LaTeX template 
 | [apsr](https://github.com/christopherkenny/apsr) | Quarto | [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) | 
 | [cambridge-medium](https://github.com/christopherkenny/cambridge-medium) | Quarto | [Political Analysis](https://www.cambridge.org/core/journals/political-analysis), [Political Science Research and Methods](https://www.cambridge.org/core/journals/political-science-research-and-methods), [British Journal of Political Science](https://www.cambridge.org/core/journals/british-journal-of-political-science), [Annals of Actuarial Science](https://www.cambridge.org/core/journals/annals-of-actuarial-science), [Network Science](https://www.cambridge.org/core/journals/network-science) |
 | [scientific-data](https://github.com/christopherkenny/scientific-data) | Quarto | [Scientific Data](https://www.nature.com/sdata/) (for Data Descriptors) | 
+| [pnas](https://github.com/christopherkenny/pnas) | Quarto | [PNAS](https://www.pnas.org/) (for Research Articles) | 
 | [science](https://github.com/christopherkenny/rticles) | rticles | [Science](https://www.science.org/), [Science Advances](https://www.science.org/journal/sciadv) |
 
 ## Other Repos
