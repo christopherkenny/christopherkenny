@@ -46,7 +46,9 @@ These are packages that are actively under development and have not yet made it 
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
 | [redistio](https://github.com/christopherkenny/redistio) | A poor man's version of Dave's Redistricting App run in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) | 
 
-## Quarto and RMarkdown Templates
+## Quarto and RMarkdown
+
+### Templates
 
 These are templates for journal submissions. These each modify a LaTeX template to let you write papers in a journal's submission style from Quarto or RMarkdown.
 
@@ -54,11 +56,20 @@ These are templates for journal submissions. These each modify a LaTeX template 
 | -------- | ---- | ---------- |
 | [apsr](https://github.com/christopherkenny/apsr) | Quarto | [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) | 
 | [cambridge-medium](https://github.com/christopherkenny/cambridge-medium) | Quarto | [Political Analysis](https://www.cambridge.org/core/journals/political-analysis), [Political Science Research and Methods](https://www.cambridge.org/core/journals/political-science-research-and-methods), [British Journal of Political Science](https://www.cambridge.org/core/journals/british-journal-of-political-science), [Annals of Actuarial Science](https://www.cambridge.org/core/journals/annals-of-actuarial-science), [Network Science](https://www.cambridge.org/core/journals/network-science) |
+| [nature](https://github.com/christopherkenny/nature) | Quarto | [Springer Nature Journals](https://www.springernature.com/gp/products/journals) |
 | [pnas](https://github.com/christopherkenny/pnas) | Quarto | [PNAS](https://www.pnas.org/) (for Research Articles) | 
 | [pnas-si](https://github.com/christopherkenny/pnas-si) | Quarto | [PNAS](https://www.pnas.org/) (for Supporting Information) | 
 | [science](https://github.com/christopherkenny/rticles) | rticles | [Science](https://www.science.org/), [Science Advances](https://www.science.org/journal/sciadv) |
 | [scientific-data](https://github.com/christopherkenny/scientific-data) | Quarto | [Scientific Data](https://www.nature.com/sdata/) (for Data Descriptors) | 
 | [perspectives](https://github.com/christopherkenny/perspectives) | Quarto | [Perspectives on Politics](https://www.cambridge.org/core/journals/perspectives-on-politics) |
+
+### Quarto Extensions
+
+These are non-template extensions that can be added to any Quarto document.
+
+| Extension | Type | Description |
+| --------- | ---- | ----------- |
+| [wordcount](https://github.com/christopherkenny/wordcount) | filter | inserts a word count within a document in place of the placeholder `{{wordcount}}` |
 
 ## Other Repos
 
