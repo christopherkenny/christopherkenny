@@ -69,7 +69,7 @@ These are non-template extensions that can be added to any Quarto document.
 
 | Extension | Type | Description |
 | --------- | ---- | ----------- |
-| [wordcount](https://github.com/christopherkenny/wordcount) | filter | inserts a word count within a document in place of the placeholder `{{wordcount}}` or {{wordcountref}}`|
+| [wordcount](https://github.com/christopherkenny/wordcount) | filter | inserts a word count within a document in place of the placeholder `{{wordcount}}` or `{{wordcountref}}`|
 
 ## Other Repos
 
