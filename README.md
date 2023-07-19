@@ -54,6 +54,7 @@ These are templates for journal submissions. These each modify a LaTeX template 
 
 | Template | Type | Journal(s) |
 | -------- | ---- | ---------- |
+| [annual-reviews](https://github.com/christopherkenny/annual-reviews) | Quarto | [Annual Reviews](https://www.annualreviews.org/) |
 | [apsr](https://github.com/christopherkenny/apsr) | Quarto | [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) | 
 | [cambridge-medium](https://github.com/christopherkenny/cambridge-medium) | Quarto | [Political Analysis](https://www.cambridge.org/core/journals/political-analysis), [Political Science Research and Methods](https://www.cambridge.org/core/journals/political-science-research-and-methods), [British Journal of Political Science](https://www.cambridge.org/core/journals/british-journal-of-political-science), [Annals of Actuarial Science](https://www.cambridge.org/core/journals/annals-of-actuarial-science), [Network Science](https://www.cambridge.org/core/journals/network-science) |
 | [nature](https://github.com/christopherkenny/nature) | Quarto | [Springer Nature Journals](https://www.springernature.com/gp/products/journals) |
