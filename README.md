@@ -40,9 +40,10 @@ These are packages that are actively under development and have not yet made it 
 | Package | Description | Lifecycle | 
 | ------- | ----------- | --------- | 
 | [alarmdata](https://alarm-redist.org/alarmdata/)       | Work with data generated from [ALARM Project](https://alarm-redist.org/) projects. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
-| [redistverse](https://alarm-redist.org/redistverse/)   | Load in the whole redist family at once. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [redistverse](https://alarm-redist.org/redistverse/)   | Load in the whole `redist` family at once. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [planscorer](https://christophertkenny.com/planscorer/)| Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md). | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
+| [bskyr](https://alarm-redist.org/bskyr/)              | Use the [Bluesky Social HTTP API (XRPC)](https://atproto.com/specs/xrpc) in R | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
 | [redistio](https://github.com/christopherkenny/redistio) | A poor man's version of Dave's Redistricting App run in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) | 
 
@@ -81,6 +82,7 @@ These are non-template extensions that can be added to any Quarto document.
 | [chicago](https://github.com/christopherkenny/chicago) | An example workflow for combining city election data and census demographic data using `geomander` and `censable` |
 | [redist_workshop](https://github.com/christopherkenny/redist_workshop) | A workshop taught with Tyler Simko at Harvard University on using `redist` for research. | 
 | [royale](https://github.com/christopherkenny/royale)  | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) An R package for accessing the [API](https://developer.clashroyale.com/#/) for the game [Clash Royale](https://supercell.com/en/games/clashroyale/). |
+| [clash](https://github.com/christopherkenny/clash)  | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) An R package for accessing the [API](https://developer.clashofclans.com/#/) for the game [Clash of Clans](https://supercell.com/en/games/clashofclans/). |
 | [styler.quote](https://github.com/christopherkenny/styler.quote) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) A third party extension to styler that modifies the tidyverse style guide to use correct quotes in R (the single `'` rather than captilized version `"`) |
 | [luigg](https://github.com/christopherkenny/luigg) | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) An R package with ggplot2 extensions for a Mario-style pipe bar graph and color schemes based on Mario games. |
 | [acronames](https://github.com/christopherkenny/acronames) | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) An R package for creating initialisms based on lists of words you want to use. | 
