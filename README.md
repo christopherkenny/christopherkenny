@@ -28,6 +28,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [name](https://christophertkenny.com/name/)             | Collected tools for working with pattern-based column names. |
 | [crayons](https://christophertkenny.com/crayons/)       | Some ggplot2 extensions for color palettes based on Crayola crayons. |
 | [gptzeror](https://christophertkenny.com/gptzeror)      | An R interface to the [GPTZero API](https://gptzero.me/) for identifying so-called AI written text. |
+| [bskyr](https://christophertkenny.com/bskyr/)           | Use the [Bluesky Social HTTP API (XRPC)](https://atproto.com/specs/xrpc) in R |
 
 ## Packages under development
 
@@ -43,7 +44,6 @@ These are packages that are actively under development and have not yet made it 
 | [redistverse](https://alarm-redist.org/redistverse/)   | Load in the whole `redist` family at once. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [planscorer](https://christophertkenny.com/planscorer/)| Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md). | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
-| [bskyr](https://christophertkenny.com/bskyr/)              | Use the [Bluesky Social HTTP API (XRPC)](https://atproto.com/specs/xrpc) in R | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
 | [redistio](https://github.com/christopherkenny/redistio) | A poor man's version of Dave's Redistricting App run in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) | 
 
