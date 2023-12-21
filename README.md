@@ -2,7 +2,7 @@
 
 I am a PhD candidate in Government at Harvard University. I research redistricting, elections, and the uses and usability of census data. I am a core member of the [ALARM Project](https://alarm-redist.org/). In 2022, I was a fellow at the [Election Law Clinic at Harvard Law School](https://www.hlselectionlaw.org/). 
 
-This readme is mostly a table of contents for my GitHub repositories (and some others that I contribute to). For more information on my research, see my [website](https://christophertkenny.com/research.html) or [CV](https://christophertkenny.com/CV.html). Find me on  [Twitter](https://twitter.com/Chris_T_Kenny) or [Threads](https://www.threads.net/@chris_t_kenny).
+This readme is mostly a table of contents for my GitHub repositories (and some others that I contribute to). For more information on my research, see my [website](https://christophertkenny.com/research.html) or [CV](https://christophertkenny.com/CV.html). Find me on  [Twitter](https://twitter.com/Chris_T_Kenny), [Bluesky](https://bsky.app/profile/chriskenny.bsky.social), or [Threads](https://www.threads.net/@chris_t_kenny).
 
 ## Packages on CRAN
 
