@@ -92,5 +92,6 @@ These are non-template extensions that can be added to any Quarto document.
 | [universe](https://github.com/christopherkenny/universe) | Packages list for generating my [r-universe](https://christopherkenny.r-universe.dev/builds). I don't keep this super updated, but it has the big packages that are a pain to build from source from GitHub. | 
 | [conf](https://github.com/christopherkenny/conf) | Links to public conference slides |
 | [legend-dynasty](https://github.com/christopherkenny/legend-dynasty) | A series of automatically generated tables to a quarto website |
+| [bsky-cran-bot](https://github.com/christopherkenny/bskyr-cran-bot) | A time-based Bluesky Social bot powered by [`bskyr`](https://christophertkenny.com/bskyr/) and run on GitHub Actions |
 
 If there are other *public* repos that aren't listed here that aren't forks, they are probably either newer than this Table of Contents, too small to be useful, not supported but I don't want to delete them, or course-related. If you see something that you're interested in knowing more about, send me a tweet or email or just open an issue in the repo.
