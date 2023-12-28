@@ -42,10 +42,11 @@ These are packages that are actively under development and have not yet made it 
 | ------- | ----------- | --------- | 
 | [alarmdata](https://alarm-redist.org/alarmdata/)       | Work with data generated from [ALARM Project](https://alarm-redist.org/) projects. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [redistverse](https://alarm-redist.org/redistverse/)   | Load in the whole `redist` family at once. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [redistio](https://github.com/christopherkenny/redistio) | An interactive redistricting app run locally in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
 | [planscorer](https://christophertkenny.com/planscorer/)| Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md). | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
-| [redistio](https://github.com/christopherkenny/redistio) | A poor man's version of Dave's Redistricting App run in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) | 
+
 
 ## Quarto and RMarkdown
 
