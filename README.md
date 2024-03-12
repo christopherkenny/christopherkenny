@@ -42,6 +42,7 @@ These are packages that are actively under development and have not yet made it 
 
 | Package | Description | Lifecycle | 
 | ------- | ----------- | --------- | 
+| [palette](https://christophertkenny.com/palette/) | Use a `palette` class which adds pretty console color printing | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
 | [redistverse](https://alarm-redist.org/redistverse/)   | Load in the whole `redist` family at once. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [redistio](https://github.com/christopherkenny/redistio) | An interactive redistricting app run locally in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
