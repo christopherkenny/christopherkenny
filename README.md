@@ -17,7 +17,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [censable](https://christophertkenny.com/censable/)     | Download the most frequently used demographic data and categories from the Census Bureau API.|
 | [ggredist](https://alarm-redist.org/ggredist/)          | ggplot2 extensions and color palettes for election mapping.|
 | [tinytiger](https://alarm-redist.org/tinytiger/)        | A developer-oriented interface to TIGER/Line Shapefiles. (You probably want to use Kyle Walker's [tigris](https://github.com/walkerke/tigris) unless you're doing R :package: development.) |
-| [cvap](https://christophertkenny.com/cvap/)             | Work with the US Census Bureau's [Citizen Voting Age Population Special Tabulations](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html). |
+| [cvap](https://christophertkenny.com/cvap/)             | Work with the US Census Bureau's [Citizen Voting Age Population Special Tabulations](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html).  |
 | [ppmf](https://christophertkenny.com/ppmf/)             | Read in US Census Bureau Privacy Protected Microdata Files. |
 | [divseg](https://christophertkenny.com/divseg/)         | Compute diversity and segregation indices. |
 | [dots](https://christophertkenny.com/dots/)             | Create dot density maps in R. |
@@ -29,9 +29,10 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [crayons](https://christophertkenny.com/crayons/)       | Some ggplot2 extensions for color palettes based on Crayola crayons. |
 | [gptzeror](https://christophertkenny.com/gptzeror)      | An R interface to the [GPTZero API](https://gptzero.me/) for identifying so-called AI written text. |
 | [bskyr](https://christophertkenny.com/bskyr/)           | Use the [Bluesky Social HTTP API (XRPC)](https://atproto.com/specs/xrpc) in R |
-| [planscorer](https://christophertkenny.com/planscorer/)| Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md).|
-| [alarmdata](https://alarm-redist.org/alarmdata/)       | Work with data generated from [ALARM Project](https://alarm-redist.org/) projects. |
-| [palette](https://christophertkenny.com/palette/) | Use a `palette` class which adds pretty console color printing | 
+| [planscorer](https://christophertkenny.com/planscorer/) | Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md).|
+| [alarmdata](https://alarm-redist.org/alarmdata/)        | Work with data generated from [ALARM Project](https://alarm-redist.org/) projects. |
+| [palette](https://christophertkenny.com/palette/)       | Use a `palette` class which adds pretty console color printing | 
+| [baf](https://christophertkenny.com/baf/)               | Load Census Bureau block assignment files and block equivalency files |
 
 ## Packages under development
 
