@@ -75,7 +75,7 @@ These are non-template extensions that can be added to any Quarto document.
 | Extension | Type | Description |
 | --------- | ---- | ----------- |
 | [wordcount](https://github.com/christopherkenny/wordcount) | filter | inserts a word count within a document in place of the placeholder `{{wordcount}}` or `{{wordcountref}}`|
-| [typst-filter](https://github.com/christopherkenny/typst-function) | filter | inserts a Typst function in the place of a div or span |
+| [typst-function](https://github.com/christopherkenny/typst-function) | filter | inserts a Typst function in the place of a div or span |
 
 ## Other Repos
 
