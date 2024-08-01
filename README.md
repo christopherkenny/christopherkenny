@@ -52,7 +52,7 @@ These are packages that are actively under development and have not yet made it 
 
 ## Quarto and RMarkdown
 
-### Templates
+### Journal Templates
 
 These are templates for journal submissions. These each modify a LaTeX template to let you write papers in a journal's submission style from Quarto or RMarkdown.
 
@@ -68,7 +68,7 @@ These are templates for journal submissions. These each modify a LaTeX template 
 | [scientific-data](https://github.com/christopherkenny/scientific-data) | Quarto | [Scientific Data](https://www.nature.com/sdata/) (for Data Descriptors) | 
 | [perspectives](https://github.com/christopherkenny/perspectives) | Quarto | [Perspectives on Politics](https://www.cambridge.org/core/journals/perspectives-on-politics) |
 
-### Quarto Extensions
+### Quarto Extensions (Filters)
 
 These are non-template extensions that can be added to any Quarto document.
 
