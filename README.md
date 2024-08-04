@@ -68,6 +68,14 @@ These are templates for journal submissions. These each modify a LaTeX template 
 | [scientific-data](https://github.com/christopherkenny/scientific-data) | Quarto | [Scientific Data](https://www.nature.com/sdata/) (for Data Descriptors) | 
 | [perspectives](https://github.com/christopherkenny/perspectives) | Quarto | [Perspectives on Politics](https://www.cambridge.org/core/journals/perspectives-on-politics) |
 
+### Non-journal Quarto Templates
+
+These are Quarto extensions which are not designed for submissions to academic journals.
+
+| Extension | Description |
+| --------- | ----------- | 
+| [tufte](https://github.com/christopherkenny/tufte) | Provides a Tufte-style document for Quarto using Typst, based on [nogula/tufte-memo](https://github.com/nogula/tufte-memo) |
+
 ### Quarto Extensions (Filters)
 
 These are non-template extensions that can be added to any Quarto document.
