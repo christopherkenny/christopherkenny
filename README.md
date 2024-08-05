@@ -75,6 +75,7 @@ These are Quarto extensions which are not designed for submissions to academic j
 | Extension | Description |
 | --------- | ----------- | 
 | [tufte](https://github.com/christopherkenny/tufte) | Provides a Tufte-style document for Quarto using Typst, based on [nogula/tufte-memo](https://github.com/nogula/tufte-memo) |
+| [ctk-article](https://github.com/christopherkenny/ctk-article) | A general purpose academic article template for Quarto using Typst |
 
 ### Quarto Extensions (Filters)
 
@@ -84,6 +85,7 @@ These are non-template extensions that can be added to any Quarto document.
 | --------- | ---- | ----------- |
 | [wordcount](https://github.com/christopherkenny/wordcount) | filter | inserts a word count within a document in place of the placeholder `{{wordcount}}` or `{{wordcountref}}`|
 | [typst-function](https://github.com/christopherkenny/typst-function) | filter | inserts a Typst function in the place of a div or span |
+| [spellcheck](https://github.com/christopherkenny/spellcheck) | filter | runs Hunspell on render, printing mispelled words to the console |
 
 ## Other Repos
 
