@@ -6,7 +6,7 @@ This readme is mostly a table of contents for my GitHub repositories (and some o
 
 ## Packages on CRAN
 
-These are packages that are stable and usable. They are on CRAN and in are in regular use (by at least me).
+These are packages that are stable and usable. They are on CRAN and in are in regular use.
 
 | Package | Description |
 | ------- | ----------- |
