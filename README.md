@@ -34,6 +34,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [palette](https://christophertkenny.com/palette/)       | Use a `palette` class which adds pretty console color printing. | 
 | [baf](https://christophertkenny.com/baf/)               | Load Census Bureau block assignment files and block equivalency files. |
 | [redistverse](https://alarm-redist.org/redistverse/)    | Load in the whole `redist` family at once. |
+| [opengraph](https://github.com/christopherkenny/opengraph) | Parse Open Graph Protocol metadata |
 
 ## Packages under development
 
@@ -48,7 +49,6 @@ These are packages that are actively under development and have not yet made it 
 | [redistio](https://github.com/christopherkenny/redistio) | An interactive redistricting app run locally in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
-| [opengraph](https://github.com/christopherkenny/opengraph) | Parse Open Graph Protocol metadata | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
 
 ## Quarto and RMarkdown
 
