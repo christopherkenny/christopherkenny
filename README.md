@@ -76,6 +76,8 @@ These are Quarto extensions which are not designed for submissions to academic j
 | --------- | ----------- | 
 | [tufte](https://github.com/christopherkenny/tufte) | Provides a Tufte-style document for Quarto using Typst, based on [nogula/tufte-memo](https://github.com/nogula/tufte-memo) |
 | [ctk-article](https://github.com/christopherkenny/ctk-article) | A general purpose academic article template for Quarto using Typst |
+| [ctk-memo](https://github.com/christopherkenny/ctk-memo) | A general purpose memo template to aesthetically match `ctk-article` |
+| [cv](https://github.com/christopherkenny/quarto-cv) | A CV template using shortcodes from Quarto and Typst-powered YAML reading and formatting|
 
 ### Quarto Extensions (Filters)
 
