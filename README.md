@@ -35,6 +35,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [baf](https://christophertkenny.com/baf/)               | Load Census Bureau block assignment files and block equivalency files. |
 | [redistverse](https://alarm-redist.org/redistverse/)    | Load in the whole `redist` family at once. |
 | [opengraph](https://github.com/christopherkenny/opengraph) | Parse Open Graph Protocol metadata |
+| [flexoki](https://github.com/christopherkenny/flexoki) | Use Steph Ango's [flexoki](https://github.com/kepano/flexoki) palettes in ggplot |
 
 ## Packages under development
 
