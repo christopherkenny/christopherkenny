@@ -10,32 +10,33 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 
 | Package | Description |
 | ------- | ----------- |
-| [redist](https://alarm-redist.org/redist/)              | Tools for redistricting sampling. Used frequently in research and litigation. |
-| [redistmetrics](https://alarm-redist.org/redistmetrics/)| Measures and metrics for assessing redistricting plans |
-| [geomander](https://christophertkenny.com/geomander/)   | Spatial tools designed for interfacing election data, precincts, and census  data |
-| [PL94171](https://corymccartan.com/PL94171/)            | Read in [PL 94-171 Census](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html) data, the redistricting files. |
-| [censable](https://christophertkenny.com/censable/)     | Download the most frequently used demographic data and categories from the Census Bureau API.|
-| [ggredist](https://alarm-redist.org/ggredist/)          | ggplot2 extensions and color palettes for election mapping.|
-| [tinytiger](https://alarm-redist.org/tinytiger/)        | A developer-oriented interface to TIGER/Line Shapefiles. (You probably want to use Kyle Walker's [tigris](https://github.com/walkerke/tigris) unless you're doing R :package: development.) |
-| [cvap](https://christophertkenny.com/cvap/)             | Work with the US Census Bureau's [Citizen Voting Age Population Special Tabulations](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html).  |
-| [ppmf](https://christophertkenny.com/ppmf/)             | Read in US Census Bureau Privacy Protected Microdata Files. |
-| [divseg](https://christophertkenny.com/divseg/)         | Compute diversity and segregation indices. |
-| [dots](https://christophertkenny.com/dots/)             | Create dot density maps in R. |
-| [congress](https://christophertkenny.com/congress/)     | An R interface to the [Congress.gov API](https://github.com/LibraryOfCongress/api.congress.gov/). |
-| [feltr](https://github.com/christopherkenny/feltr)      | Work with the [Felt API](https://feltmaps.notion.site/Getting-Started-With-The-Felt-API-69c8b02b7d8e436daa657a04a2dbaffa) so you can upload or read spatial data within existing workflows in R. |
-| [apportion](https://christophertkenny.com/apportion/)   | Allocate seats based on population vectors by various different methods. |
-| [jot](https://christophertkenny.com/jot/)               | A GitHub friendly approach to saving and sharing statistics needed for writing papers in Quarto/RMarkdown. |
-| [name](https://christophertkenny.com/name/)             | Collected tools for working with pattern-based column names. |
-| [crayons](https://christophertkenny.com/crayons/)       | Some ggplot2 extensions for color palettes based on Crayola crayons. |
-| [gptzeror](https://christophertkenny.com/gptzeror)      | An R interface to the [GPTZero API](https://gptzero.me/) for identifying so-called AI written text. |
-| [bskyr](https://christophertkenny.com/bskyr/)           | Use the [Bluesky Social HTTP API (XRPC)](https://atproto.com/specs/xrpc) in R. |
-| [planscorer](https://christophertkenny.com/planscorer/) | Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md).|
-| [alarmdata](https://alarm-redist.org/alarmdata/)        | Work with data generated from [ALARM Project](https://alarm-redist.org/) projects. |
-| [palette](https://christophertkenny.com/palette/)       | Use a `palette` class which adds pretty console color printing. | 
-| [baf](https://christophertkenny.com/baf/)               | Load Census Bureau block assignment files and block equivalency files. |
-| [redistverse](https://alarm-redist.org/redistverse/)    | Load in the whole `redist` family at once. |
-| [opengraph](https://github.com/christopherkenny/opengraph) | Parse Open Graph Protocol metadata |
-| [flexoki](https://github.com/christopherkenny/flexoki) | Use Steph Ango's [flexoki](https://github.com/kepano/flexoki) palettes in ggplot |
+| [redist](https://alarm-redist.org/redist/)                  | Tools for redistricting sampling. Used frequently in research and litigation. |
+| [redistmetrics](https://alarm-redist.org/redistmetrics/)    | Measures and metrics for assessing redistricting plans |
+| [geomander](https://christophertkenny.com/geomander/)       | Spatial tools designed for interfacing election data, precincts, and census  data |
+| [PL94171](https://corymccartan.com/PL94171/)                | Read in [PL 94-171 Census](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html) data, the redistricting files. |
+| [censable](https://christophertkenny.com/censable/)         | Download the most frequently used demographic data and categories from the Census Bureau API.|
+| [ggredist](https://alarm-redist.org/ggredist/)              | ggplot2 extensions and color palettes for election mapping.|
+| [tinytiger](https://alarm-redist.org/tinytiger/)            | A developer-oriented interface to TIGER/Line Shapefiles. (You probably want to use Kyle Walker's [tigris](https://github.com/walkerke/tigris) unless you're doing R :package: development.) |
+| [cvap](https://christophertkenny.com/cvap/)                 | Work with the US Census Bureau's [Citizen Voting Age Population Special Tabulations](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html).  |
+| [ppmf](https://christophertkenny.com/ppmf/)                 | Read in US Census Bureau Privacy Protected Microdata Files. |
+| [divseg](https://christophertkenny.com/divseg/)             | Compute diversity and segregation indices. |
+| [dots](https://christophertkenny.com/dots/)                 | Create dot density maps in R. |
+| [congress](https://christophertkenny.com/congress/)         | An R interface to the [Congress.gov API](https://github.com/LibraryOfCongress/api.congress.gov/). |
+| [feltr](https://github.com/christopherkenny/feltr)          | Work with the [Felt API](https://feltmaps.notion.site/Getting-Started-With-The-Felt-API-69c8b02b7d8e436daa657a04a2dbaffa) so you can upload or read spatial data within existing workflows in R. |
+| [apportion](https://christophertkenny.com/apportion/)       | Allocate seats based on population vectors by various different methods. |
+| [jot](https://christophertkenny.com/jot/)                   | A GitHub friendly approach to saving and sharing statistics needed for writing papers in Quarto/RMarkdown. |
+| [name](https://christophertkenny.com/name/)                 | Collected tools for working with pattern-based column names. |
+| [crayons](https://christophertkenny.com/crayons/)           | Some ggplot2 extensions for color palettes based on Crayola crayons. |
+| [gptzeror](https://christophertkenny.com/gptzeror)          | An R interface to the [GPTZero API](https://gptzero.me/) for identifying so-called AI written text. |
+| [bskyr](https://christophertkenny.com/bskyr/)               | Use the [Bluesky Social HTTP API (XRPC)](https://atproto.com/specs/xrpc) in R. |
+| [planscorer](https://christophertkenny.com/planscorer/)     | Score redistricting plans via the [PlanScore API](https://github.com/PlanScore/PlanScore/blob/main/API.md).|
+| [alarmdata](https://alarm-redist.org/alarmdata/)            | Work with data generated from [ALARM Project](https://alarm-redist.org/) projects. |
+| [palette](https://christophertkenny.com/palette/)           | Use a `palette` class which adds pretty console color printing. | 
+| [baf](https://christophertkenny.com/baf/)                   | Load Census Bureau block assignment files and block equivalency files. |
+| [redistverse](https://alarm-redist.org/redistverse/)        | Load in the whole `redist` family at once. |
+| [opengraph](https://github.com/christopherkenny/opengraph)  | Parse Open Graph Protocol metadata |
+| [flexoki](https://github.com/christopherkenny/flexoki)      | Use Steph Ango's [flexoki](https://github.com/kepano/flexoki) palettes in ggplot |
+| [typr](https://github.com/christopherkenny/typr)            | Compile Typst documents from R. |
 
 ## Packages under development
 
@@ -50,7 +51,6 @@ These are packages that are actively under development and have not yet made it 
 | [redistio](https://github.com/christopherkenny/redistio) | An interactive redistricting app run locally in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
-| [typr](https://github.com/christopherkenny/typr) | Compile Typst documents from R. | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
