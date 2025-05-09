@@ -114,5 +114,7 @@ These are non-template extensions that can be added to any Quarto document.
 | [legend-dynasty](https://github.com/christopherkenny/legend-dynasty) | A series of automatically generated tables to a quarto website |
 | [bsky-cran-bot](https://github.com/christopherkenny/bskyr-cran-bot) | A time-based Bluesky Social bot powered by [`bskyr`](https://christophertkenny.com/bskyr/) and run on GitHub Actions |
 | [mt-enumeration](https://github.com/christopherkenny/mt-enumeration) | Enumeration of all whole county plans with 1 person deviation in Montana for the 2020 cycle |
+| [kpfonts](https://github.com/christopherkenny/kpfonts) | A copy of Christophe Caignaert and Daniel Flipo's kpfonts |
+
 
 If there are other *public* repos that aren't listed here that aren't forks, they are probably either newer than this Table of Contents, too small to be useful, not supported but I don't want to delete them, or course-related. If you see something that you're interested in knowing more about, send me a tweet or email or just open an issue in the repo.
