@@ -79,6 +79,7 @@ These are Quarto extensions which are not designed for submissions to academic j
 | [tufte](https://github.com/christopherkenny/tufte) | Provides a Tufte-style document for Quarto using Typst, based on [nogula/tufte-memo](https://github.com/nogula/tufte-memo) |
 | [ctk-article](https://github.com/christopherkenny/ctk-article) | A general purpose academic article template for Quarto using Typst |
 | [ctk-memo](https://github.com/christopherkenny/ctk-memo) | A general purpose memo template to aesthetically match `ctk-article` |
+| [ctk-syllabus](https://github.com/christopherkenny/ctk-syllabus) | A syllabus template for Quarto using Typst |
 | [cv](https://github.com/christopherkenny/quarto-cv) | A CV template using shortcodes from Quarto and Typst-powered YAML reading and formatting|
 | [projector](https://github.com/christopherkenny/projector) | A Quarto extension for making slides with [Polylux](https://github.com/andreasKroepelin/polylux)|
 | [harvard-diss](https://github.com/christopherkenny/harvard-diss) | A Quarto extension for writing a Harvard GSAS dissertation with a Typst backend |
@@ -115,6 +116,8 @@ These are non-template extensions that can be added to any Quarto document.
 | [bsky-cran-bot](https://github.com/christopherkenny/bskyr-cran-bot) | A time-based Bluesky Social bot powered by [`bskyr`](https://christophertkenny.com/bskyr/) and run on GitHub Actions |
 | [mt-enumeration](https://github.com/christopherkenny/mt-enumeration) | Enumeration of all whole county plans with 1 person deviation in Montana for the 2020 cycle |
 | [kpfonts](https://github.com/christopherkenny/kpfonts) | A copy of Christophe Caignaert and Daniel Flipo's kpfonts |
+| [rockland-sare-lawsuit](https://github.com/christopherkenny/rockland-sare-lawsuit) | Replication code for a blog post on [Sare v. Rockland County Board of Elections](https://christophertkenny.com/posts/2025-06-17-rockland-sare/) |
+| [projector-themes](https://github.com/christopherkenny/projector-themes) | Themes for the `projector` Quarto extension to create slides with Polylux |
 
 
 If there are other *public* repos that aren't listed here that aren't forks, they are probably either newer than this Table of Contents, too small to be useful, not supported but I don't want to delete them, or course-related. If you see something that you're interested in knowing more about, send me a tweet or email or just open an issue in the repo.
