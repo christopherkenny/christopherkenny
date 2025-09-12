@@ -41,10 +41,10 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 ## Packages under development
 
 These are packages that are actively under development and have not yet made it onto CRAN for one reason or another. 
-- Stable packages should give correct results, but may need a bit of work tightening up documentation or handling errors better. 
-- Mostly stable packages should give correct results, but have features left to implement or have R CMD Check issues. 
-- Experimental packages are entirely under development but will *someday* be good for wider use. 
-- No promises packages are also entirely under development but I make no guarantees to their usefulness, but hey it _might_ be better than nothing. Send me a tweet, email, or open an issue if you want to ask about specific features in these.
+- Stable packages ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) should give correct results, but may need a bit of work tightening up documentation or handling errors better. 
+- Mostly stable packages ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) should give correct results, but have features left to implement or have R CMD Check issues. 
+- Experimental packages ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) are entirely under development but will *someday* be good for wider use. 
+- No promises packages ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) are also entirely under development but I make no guarantees to their usefulness, but hey it _might_ be better than nothing. Send me a tweet, email, or open an issue if you want to ask about specific features in these.
 
 | Package | Description | Lifecycle | 
 | ------- | ----------- | --------- | 
@@ -52,6 +52,8 @@ These are packages that are actively under development and have not yet made it 
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
 | [manifesto](https://github.com/christopherkenny/manifesto) | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [ha](https://github.com/christopherkenny/ha) | Control your smart home from R using the Home Assistant API | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
+| [ggtiger](https://github.com/christopherkenny/ggtiger) | ggplot2 extensions for Princeton's brand guidelines | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
@@ -65,6 +67,8 @@ These are templates for journal submissions. These each modify a LaTeX template 
 | [apsr](https://github.com/christopherkenny/apsr) | Quarto | [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) | 
 | [cambridge-medium](https://github.com/christopherkenny/cambridge-medium) | Quarto | [Political Analysis](https://www.cambridge.org/core/journals/political-analysis), [Political Science Research and Methods](https://www.cambridge.org/core/journals/political-science-research-and-methods), [British Journal of Political Science](https://www.cambridge.org/core/journals/british-journal-of-political-science), [Annals of Actuarial Science](https://www.cambridge.org/core/journals/annals-of-actuarial-science), [Network Science](https://www.cambridge.org/core/journals/network-science) |
 | [nature](https://github.com/christopherkenny/nature) | Quarto | [Springer Nature Journals](https://www.springernature.com/gp/products/journals) |
+| [now](https://github.com/christopherkenny/now) | Quarto | [now Publishers journals](https://www.nowpublishers.com/journal), including the [QJPS](https://www.nowpublishers.com/QJPS) |
+| [oup](https://github.com/christopherkenny/oup) | Quarto | [Oxford University Press journals](https://academic.oup.com/), including [POQ](https://academic.oup.com/poq) and [Publius](https://academic.oup.com/publius) |
 | [pnas](https://github.com/christopherkenny/pnas) | Quarto | [PNAS](https://www.pnas.org/) (for Research Articles) | 
 | [pnas-si](https://github.com/christopherkenny/pnas-si) | Quarto | [PNAS](https://www.pnas.org/) (for Supporting Information) | 
 | [science](https://github.com/christopherkenny/rticles) | rticles | [Science](https://www.science.org/), [Science Advances](https://www.science.org/journal/sciadv) |
