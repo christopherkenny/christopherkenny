@@ -85,6 +85,7 @@ These are Quarto extensions which are not designed for submissions to academic j
 | [ctk-article](https://github.com/christopherkenny/ctk-article) | A general purpose academic article template for Quarto using Typst |
 | [ctk-memo](https://github.com/christopherkenny/ctk-memo) | A general purpose memo template to aesthetically match `ctk-article` |
 | [ctk-syllabus](https://github.com/christopherkenny/ctk-syllabus) | A syllabus template for Quarto using Typst |
+| [ctk-legal](https://github.com/christopherkenny/ctk-legal) | An expert report template for Quarto using Typst |
 | [cv](https://github.com/christopherkenny/quarto-cv) | A CV template using shortcodes from Quarto and Typst-powered YAML reading and formatting|
 | [projector](https://github.com/christopherkenny/projector) | A Quarto extension for making slides with [Polylux](https://github.com/andreasKroepelin/polylux)|
 | [harvard-diss](https://github.com/christopherkenny/harvard-diss) | A Quarto extension for writing a Harvard GSAS dissertation with a Typst backend |
