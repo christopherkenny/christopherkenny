@@ -54,7 +54,7 @@ These are packages that are actively under development and have not yet made it 
 | [manifesto](https://github.com/christopherkenny/manifesto) | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [ha](https://github.com/christopherkenny/ha) | Control your smart home from R using the Home Assistant API | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
 | [ggtiger](https://github.com/christopherkenny/ggtiger) | ggplot2 extensions for Princeton's brand guidelines | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
-| [adj](https://github.com/christopherkenny/adj) | A lightweight adjacency list class | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [adj](https://github.com/alarm-redist/adj) | A lightweight adjacency list class | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
