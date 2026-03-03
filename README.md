@@ -38,6 +38,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [flexoki](https://github.com/christopherkenny/flexoki)      | Use Steph Ango's [flexoki](https://github.com/kepano/flexoki) palettes in ggplot |
 | [typr](https://github.com/christopherkenny/typr)            | Compile Typst documents from R. |
 | [adj](https://github.com/alarm-redist/adj)                  | A lightweight adjacency list class |
+| [lobby](https://github.com/christopherkenny/lobby)          | Interface to the US Senate Lobbying Disclosure API |
 
 ## Packages under development
 
@@ -56,7 +57,6 @@ These are packages that are actively under development and have not yet made it 
 | [manifesto](https://github.com/christopherkenny/manifesto) | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [ha](https://github.com/christopherkenny/ha) | Control your smart home from R using the Home Assistant API | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
 | [ggtiger](https://github.com/christopherkenny/ggtiger) | ggplot2 extensions for Princeton's brand guidelines | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
-| [lobby](https://github.com/christopherkenny/lobby) | Interface to the US Senate Lobbying Disclosure API | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [pr](https://github.com/christopherkenny/pr) | Classess for probabilities built on `vctrs` | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
@@ -128,6 +128,8 @@ These are non-template extensions that can be added to any Quarto document.
 | [kpfonts](https://github.com/christopherkenny/kpfonts) | A copy of Christophe Caignaert and Daniel Flipo's kpfonts |
 | [rockland-sare-lawsuit](https://github.com/christopherkenny/rockland-sare-lawsuit) | Replication code for a blog post on [Sare v. Rockland County Board of Elections](https://christophertkenny.com/posts/2025-06-17-rockland-sare/) |
 | [projector-themes](https://github.com/christopherkenny/projector-themes) | Themes for the `projector` Quarto extension to create slides with Polylux |
+| [skills](https://github.com/christopherkenny/skills) | My LLM Assistant Skills for Political Science research|
+| [awesome-rstats-skills](https://github.com/christopherkenny/awesome-rstats-skills) | A collection of rstats skills for LLM assistants |
 
 
 If there are other *public* repos that aren't listed here that aren't forks, they are probably either newer than this Table of Contents, too small to be useful, not supported but I don't want to delete them, or course-related. If you see something that you're interested in knowing more about, send me a tweet or email or just open an issue in the repo.
