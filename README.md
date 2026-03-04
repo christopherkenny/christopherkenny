@@ -39,6 +39,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [typr](https://github.com/christopherkenny/typr)            | Compile Typst documents from R. |
 | [adj](https://github.com/alarm-redist/adj)                  | A lightweight adjacency list class |
 | [lobby](https://github.com/christopherkenny/lobby)          | Interface to the US Senate Lobbying Disclosure API |
+| [rict](https://github.com/christopherkenny/rict)            | Summary tables for redistricting plans using `gt` |
 
 ## Packages under development
 
@@ -51,13 +52,14 @@ These are packages that are actively under development and have not yet made it 
 | Package | Description | Lifecycle | 
 | ------- | ----------- | --------- | 
 | [redistio](https://github.com/christopherkenny/redistio) | An interactive redistricting app run locally in Shiny | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
-| [rict](https://github.com/christopherkenny/rict) | Summary tables for redistricting plans using `gt` | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) | 
+
 | [ei](https://iqss-research.github.io/ei/)              | Run ecological inference models in R. This is a project with Shusei Eshima and Gary King to update Gary King and Molly Robert's original ei package from a decade ago.| ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [vf](https://github.com/christopherkenny/vf) | Read in publicly available voter files in R. | ![Static Badge](https://img.shields.io/badge/lifecycle-no_promises-red) |
 | [manifesto](https://github.com/christopherkenny/manifesto) | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [ha](https://github.com/christopherkenny/ha) | Control your smart home from R using the Home Assistant API | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
 | [ggtiger](https://github.com/christopherkenny/ggtiger) | ggplot2 extensions for Princeton's brand guidelines | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [pr](https://github.com/christopherkenny/pr) | Classess for probabilities built on `vctrs` | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [wf](https://github.com/christopherkenny/wf) | Tools for AI workflows, like adding skills | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
