@@ -104,6 +104,7 @@ These are non-template extensions that can be added to any Quarto document.
 | [wordcount](https://github.com/christopherkenny/wordcount) | filter | inserts a word count within a document in place of the placeholder `{{wordcount}}` or `{{wordcountref}}`|
 | [typst-function](https://github.com/christopherkenny/typst-function) | filter | inserts a Typst function in the place of a div or span |
 | [spellcheck](https://github.com/christopherkenny/spellcheck) | filter | runs Hunspell on render, printing mispelled words to the console |
+| [typst-refs](https://github.com/christopherkenny/typst-refs) | filter | Move a refs div to a specific location within a Quarto document using Typst without using citeproc |
 
 ## Other Repos
 
