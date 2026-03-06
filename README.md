@@ -105,6 +105,7 @@ These are non-template extensions that can be added to any Quarto document.
 | [typst-function](https://github.com/christopherkenny/typst-function) | filter | inserts a Typst function in the place of a div or span |
 | [spellcheck](https://github.com/christopherkenny/spellcheck) | filter | runs Hunspell on render, printing mispelled words to the console |
 | [typst-refs](https://github.com/christopherkenny/typst-refs) | filter | Move a refs div to a specific location within a Quarto document using Typst without using citeproc |
+| [pseudocode](https://github.com/christopherkenny/pseudocode) | filter | Write pseudocode using list syntax in a Quarto document using Typst |
 
 ## Other Repos
 
