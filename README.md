@@ -59,7 +59,7 @@ These are packages that are actively under development and have not yet made it 
 | [ggtiger](https://github.com/christopherkenny/ggtiger) | ggplot2 extensions for Princeton's brand guidelines | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [pr](https://github.com/christopherkenny/pr) | Classess for probabilities built on `vctrs` | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [wf](https://github.com/christopherkenny/wf) | Tools for AI workflows, like adding skills | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
-| [wf](https://github.com/christopherkenny/crann) | Sample and enumerate spanning trees (crann is Irish for tree) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [crann](https://github.com/christopherkenny/crann) | Sample and enumerate spanning trees (crann is Irish for tree) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
