@@ -61,6 +61,7 @@ These are packages that are actively under development and have not yet made it 
 | [pr](https://github.com/christopherkenny/pr) | Classess for probabilities built on `vctrs` | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [crann](https://github.com/christopherkenny/crann) | Sample and enumerate spanning trees (crann is Irish for tree) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [enum](https://github.com/christopherkenny/enum) | Enumerate partitions of grid graphs under weight constraints | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [enum](https://github.com/christopherkenny/gtscales) | Add legends to `gt` tables | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
