@@ -142,6 +142,7 @@ These are non-template extensions that can be added to any Quarto document.
 | [projector-themes](https://github.com/christopherkenny/projector-themes) | Themes for the `projector` Quarto extension to create slides with Polylux |
 | [skills](https://github.com/christopherkenny/skills) | My LLM Assistant Skills for Political Science research|
 | [awesome-rstats-skills](https://github.com/christopherkenny/awesome-rstats-skills) | A collection of rstats skills for LLM assistants |
+| [dais](https://github.com/christopherkenny/dais) | A PDF slides presenter CLI, made in Rust |
 
 
 If there are other *public* repos that aren't listed here that aren't forks, they are probably either newer than this Table of Contents, too small to be useful, not supported but I don't want to delete them, or course-related. If you see something that you're interested in knowing more about, send me a tweet or email or just open an issue in the repo.
