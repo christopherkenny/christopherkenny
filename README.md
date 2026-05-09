@@ -40,7 +40,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [adj](https://github.com/alarm-redist/adj)                  | A lightweight adjacency list class |
 | [lobby](https://github.com/christopherkenny/lobby)          | Interface to the US Senate Lobbying Disclosure API |
 | [rict](https://github.com/christopherkenny/rict)            | Summary tables for redistricting plans using `gt` |
-| [wf](https://github.com/christopherkenny/wf)                | Tools for AI workflows, like adding skills |
+| [wf](https://github.com/christopherkenny/wf)                | Tools for AI workflows, like adding skills, hooks, and agents |
 | [manifesto](https://github.com/christopherkenny/manifesto) | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) |
 
 ## Packages under development
