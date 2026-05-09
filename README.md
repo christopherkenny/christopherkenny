@@ -63,6 +63,10 @@ These are packages that are actively under development and have not yet made it 
 | [enum](https://github.com/christopherkenny/enum) | Enumerate partitions of grid graphs under weight constraints | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [gtscales](https://github.com/christopherkenny/gtscales) | Add legends to `gt` tables | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [snippet](https://github.com/christopherkenny/snippet) | Create formatted code snippet images | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [BCP47](https://github.com/christopherkenny/BCP47) | Validate language tages against BCP47 | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [ipf](https://github.com/christopherkenny/ipf) | Fast raking with a Rust backend | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [tinycensus](https://github.com/christopherkenny/) | A lightweight wrapper for the Census API | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [reon](https://github.com/christopherkenny/reon) | Use the [eon](https://github.com/emilk/eon) config format | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
