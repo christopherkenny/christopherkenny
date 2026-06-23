@@ -116,6 +116,7 @@ These are non-template extensions that can be added to any Quarto document.
 | [spellcheck](https://github.com/christopherkenny/spellcheck) | filter | runs Hunspell on render, printing mispelled words to the console |
 | [typst-refs](https://github.com/christopherkenny/typst-refs) | filter | Move a refs div to a specific location within a Quarto document using Typst without using citeproc |
 | [pseudocode](https://github.com/christopherkenny/pseudocode) | filter | Write pseudocode using list syntax in a Quarto document using Typst |
+| [jot](https://github.com/christopherkenny/quarto-jot) | shortcode | Include statistics created with the R package [jot](https://christophertkenny.com/jot/) |
 
 ## Other Repos
 
