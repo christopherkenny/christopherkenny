@@ -22,7 +22,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [divseg](https://christophertkenny.com/divseg/)             | Compute diversity and segregation indices. |
 | [dots](https://christophertkenny.com/dots/)                 | Create dot density maps in R. |
 | [congress](https://christophertkenny.com/congress/)         | An R interface to the [Congress.gov API](https://github.com/LibraryOfCongress/api.congress.gov/). |
-| [feltr](https://github.com/christopherkenny/feltr)          | Work with the [Felt API](https://feltmaps.notion.site/Getting-Started-With-The-Felt-API-69c8b02b7d8e436daa657a04a2dbaffa) so you can upload or read spatial data within existing workflows in R. |
+| [feltr](https://christophertkenny.com/feltr)                | Work with the [Felt API](https://feltmaps.notion.site/Getting-Started-With-The-Felt-API-69c8b02b7d8e436daa657a04a2dbaffa) so you can upload or read spatial data within existing workflows in R. |
 | [apportion](https://christophertkenny.com/apportion/)       | Allocate seats based on population vectors by various different methods. |
 | [jot](https://christophertkenny.com/jot/)                   | A GitHub friendly approach to saving and sharing statistics needed for writing papers in Quarto/RMarkdown. |
 | [name](https://christophertkenny.com/name/)                 | Collected tools for working with pattern-based column names. |
@@ -34,14 +34,15 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [palette](https://christophertkenny.com/palette/)           | Use a `palette` class which adds pretty console color printing. | 
 | [baf](https://christophertkenny.com/baf/)                   | Load Census Bureau block assignment files and block equivalency files. |
 | [redistverse](https://alarm-redist.org/redistverse/)        | Load in the whole `redist` family at once. |
-| [opengraph](https://github.com/christopherkenny/opengraph)  | Parse Open Graph Protocol metadata |
-| [flexoki](https://github.com/christopherkenny/flexoki)      | Use Steph Ango's [flexoki](https://github.com/kepano/flexoki) palettes in ggplot |
-| [typr](https://github.com/christopherkenny/typr)            | Compile Typst documents from R. |
+| [opengraph](https://christophertkenny.com/opengraph)        | Parse Open Graph Protocol metadata |
+| [flexoki](https://christophertkenny.com/flexoki)            | Use Steph Ango's [flexoki](https://github.com/kepano/flexoki) palettes in ggplot |
+| [typr](https://christophertkenny.com/typr)                  | Compile Typst documents from R. |
 | [adj](https://github.com/alarm-redist/adj)                  | A lightweight adjacency list class |
-| [lobby](https://github.com/christopherkenny/lobby)          | Interface to the US Senate Lobbying Disclosure API |
-| [rict](https://github.com/christopherkenny/rict)            | Summary tables for redistricting plans using `gt` |
-| [wf](https://github.com/christopherkenny/wf)                | Tools for AI workflows, like adding skills, hooks, and agents |
-| [manifesto](https://github.com/christopherkenny/manifesto) | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) |
+| [lobby](https://christophertkenny.com/lobby)                | Interface to the US Senate Lobbying Disclosure API |
+| [rict](https://christophertkenny.com/rict)                  | Summary tables for redistricting plans using `gt` |
+| [wf](https://christophertkenny.com/wf)                      | Tools for AI workflows, like adding skills, hooks, and agents |
+| [manifesto](https://christophertkenny.com/manifesto)        | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) |
+| [ipf](https://christophertkenny.com/ipf)                    | Fast raking with a Rust backend |
 
 ## Packages under development
 
@@ -64,12 +65,13 @@ These are packages that are actively under development and have not yet made it 
 | [gtscales](https://github.com/christopherkenny/gtscales) | Add legends to `gt` tables | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [snippet](https://github.com/christopherkenny/snippet) | Create formatted code snippet images | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [BCP47](https://github.com/christopherkenny/BCP47) | Validate language tages against BCP47 | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
-| [ipf](https://github.com/christopherkenny/ipf) | Fast raking with a Rust backend | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [tinycensus](https://github.com/christopherkenny/) | A lightweight wrapper for the Census API | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [reon](https://github.com/christopherkenny/reon) | Use the [eon](https://github.com/emilk/eon) config format | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [irelink](https://github.com/christopherkenny/irelink) | Fast probabilistic record linkage. A human-orchestrated, AI translation of [splink](https://moj-analytical-services.github.io/splink/) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
+
+See previews of templates at <https://christophertkenny.com/template-gallery/>.
 
 ### Journal Templates
 
