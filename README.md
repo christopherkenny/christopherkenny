@@ -43,6 +43,7 @@ These are packages that are stable and usable. They are on CRAN and in are in re
 | [wf](https://christophertkenny.com/wf)                      | Tools for AI workflows, like adding skills, hooks, and agents |
 | [manifesto](https://christophertkenny.com/manifesto)        | Create R project manifest files, designed for less restrictive coding environments (e.g., teaching, workshops) |
 | [ipf](https://christophertkenny.com/ipf)                    | Fast raking with a Rust backend |
+| [irelink](https://github.com/christopherkenny/irelink)      | Fast probabilistic record linkage. A human-orchestrated, AI translation of [splink](https://moj-analytical-services.github.io/splink/) |
 
 ## Packages under development
 
@@ -67,7 +68,6 @@ These are packages that are actively under development and have not yet made it 
 | [BCP47](https://github.com/christopherkenny/BCP47) | Validate language tages against BCP47 | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [tinycensus](https://github.com/christopherkenny/) | A lightweight wrapper for the Census API | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [reon](https://github.com/christopherkenny/reon) | Use the [eon](https://github.com/emilk/eon) config format | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
-| [irelink](https://github.com/christopherkenny/irelink) | Fast probabilistic record linkage. A human-orchestrated, AI translation of [splink](https://moj-analytical-services.github.io/splink/) | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 
 ## Quarto and RMarkdown
 
